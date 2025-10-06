@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # (FII/FIT) Fault Indication Indexes / Fault Isolation Trees (Procedures)
 ## Engineering Technologist III
-_Silver Spring, MD (April 2003 – October 2007)_
+`Silver Spring, MD (April 2003 – October 2007)`
 
 ![BAE Systems](../img/bae_systems.svg)
 

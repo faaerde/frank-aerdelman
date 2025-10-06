@@ -2,11 +2,11 @@
 sidebar_position: 7
 ---
 
-# IPPO TCEG2 Tech Pubs 2 – Intel
-## Technology Project/Program Manager
-_Chandler, AZ (September 2020 – September 2025)_
+# IPPO TCEG2 Tech Pubs 2
+## Technology Project/Program Manager - Intel
+`Chandler, AZ (September 2020 – September 2025)`
 
-![Intel New](../img/intel_new.svg)
+![Intel New](../img/intel_new.png)
 
 ### Resume Bullets
 

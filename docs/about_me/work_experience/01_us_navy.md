@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # USS Maryland / SSBN-738 Gold Crew
 ## Trident II D-5 Missile Technician (NEC-3311)
-_King's Bay, GA (January 1996 - January 2002)_
+`King's Bay, GA (January 1996 - January 2002)`
 
 ![United States Navy](../img/us_navy.svg)
 

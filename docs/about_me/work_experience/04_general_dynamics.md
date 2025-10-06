@@ -3,8 +3,8 @@ sidebar_position: 4
 ---
 
 # Contractor - Precision Resources National
-## Technical Writer
-_Ladson, SC (March 2010 – July 2012)_
+## Technical Writer - General Dynamics Land Systems - Force Protection
+`Ladson, SC (March 2010 – July 2012)`
 
 ![General Dynamics](../img/general_dynamics.svg)
 

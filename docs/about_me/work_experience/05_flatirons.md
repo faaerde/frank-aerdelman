@@ -3,10 +3,10 @@ sidebar_position: 5
 ---
 
 # Contractor – Aerotek
-## Technical Writer
-_Phoenix, AZ (January 2013 – March 2014)_
+## Technical Writer - Flatirons Solutions
+`Phoenix, AZ (January 2013 – March 2014)`
 
-![Flatirons](../img/flatirons.svg)
+![Flatirons](../img/flatirons.png)
 
 ### Resume Bullets
 

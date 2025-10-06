@@ -3,8 +3,8 @@ sidebar_position: 3
 ---
 
 # Contractor - Technology Transfer Services (TTS)
-## Technical Writer
-_Elkridge, MD (January 2008 – October 2009)_
+## Technical Writer - Northrop Grumman
+`Elkridge, MD (January 2008 – October 2009)`
 
 ![Northop Grumman](../img/northrop_grumman.svg)
 

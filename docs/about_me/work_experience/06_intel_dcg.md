@@ -2,15 +2,11 @@
 sidebar_position: 6
 ---
 
-# Engineering III (Contingent Worker) – netPolarity
-## Senior Technical Writer
-  * Chandler, AZ (April 2014 – March 2015)
-## Engineering III (Intel Contract Employee) - Intel
-  * Chandler, AZ (March 2015 – March 2016)
-## Senior Technical Writer (Data Center Group) – Intel
-  * Chandler, AZ (March 2016 – September 2020)
+# Contingent Worker - Data Center Group 
+## Senior Technical Writer - Intel
+`Chandler, AZ (April 2014 – September 2020)`
 
-![Intel Old](../img/intel_new.svg)
+![Intel Old](../img/intel_new.png)
 
 ### Resume Bullets
 
