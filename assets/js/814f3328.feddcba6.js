@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrank_aerdelman=self.webpackChunkfrank_aerdelman||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"MDX Blog Post","permalink":"/frank-aerdelman/blog/2025/10/05/2025-10-05-initial-test/initial-test","unlisted":false,"date":"2025-10-05T00:00:00.000Z"}]}')}}]);
