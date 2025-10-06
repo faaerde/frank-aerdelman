@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Frank Aerdelman Blog</title>
-        <link>https://faaerde.github.io/blog</link>
+        <link>https://faaerde.github.io/frank-aerdelman/blog</link>
         <description>Frank Aerdelman Blog</description>
         <lastBuildDate>Sun, 05 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://faaerde.github.io/blog/2025/10/05/2025-10-05-initial-test/initial-test</link>
-            <guid>https://faaerde.github.io/blog/2025/10/05/2025-10-05-initial-test/initial-test</guid>
+            <link>https://faaerde.github.io/frank-aerdelman/blog/2025/10/05/2025-10-05-initial-test/initial-test</link>
+            <guid>https://faaerde.github.io/frank-aerdelman/blog/2025/10/05/2025-10-05-initial-test/initial-test</guid>
             <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[This is my initial attempt at using Docusaurus to create a site.]]></description>
             <content:encoded><![CDATA[<p>This is my initial attempt at using Docusaurus to create a site.</p>
