@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrank_aerdelman=self.webpackChunkfrank_aerdelman||[]).push([[4951],{8135:a=>{a.exports=JSON.parse('{"tags":[{"label":"Docusaurus","permalink":"/frank-aerdelman/blog/tags/docusaurus","description":"Docusaurus tag description","count":1}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrank_aerdelman=self.webpackChunkfrank_aerdelman||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/frank-aerdelman/blog","blogTitle":"Blog","authorsListPath":"/frank-aerdelman/blog/authors"}')}}]);

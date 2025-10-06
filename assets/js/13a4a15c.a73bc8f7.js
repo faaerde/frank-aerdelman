@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrank_aerdelman=self.webpackChunkfrank_aerdelman||[]).push([[3450],{6954:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/frank-aerdelman/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
