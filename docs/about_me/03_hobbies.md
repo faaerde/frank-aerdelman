@@ -20,7 +20,7 @@ I remember installing and playing the game a while before digging into the docum
 As I grew older I played more complex games (including others in the Ultima series) and eventually got into first-person shooters like [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) and [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)).
 In 1995, I discovered [DWANGO](https://en.wikipedia.org/wiki/DWANGO) and was able to play online multiplayer games for the first time.  I was hooked.
 
-![DWANGO](./img/DWANGO_lobby_screenshot.png)
+![DWANGO](img/dwango_lobby_screenshot.png)
 
 ### Submarine Games
 

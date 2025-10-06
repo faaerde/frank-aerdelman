@@ -8,6 +8,8 @@ _Phoenix, AZ (January 2013 – March 2014)_
 
 ![Flatirons](../img/flatirons.svg)
 
+### Resume Bullets
+
 - Studied blueprints, schematics, drawings, parts lists, specifications, mock-ups, and product samples to integrate and
 delineate technology, operating procedure, and production sequence and detail.
 - Developed, researched, and revised aircraft maintenance manuals, system maintenance manuals, component

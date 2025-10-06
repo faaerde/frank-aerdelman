@@ -12,6 +12,8 @@ sidebar_position: 6
 
 ![Intel Old](../img/intel_new.svg)
 
+### Resume Bullets
+
 - Revised technical content of Intel proprietary documentation and presentations as specified by engineering
 modifications, new product descriptions, and customer requirements using Adobe FrameMaker 11, Microsoft
 PowerPoint, and Microsoft Visio.

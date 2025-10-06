@@ -8,6 +8,8 @@ _Elkridge, MD (January 2008 – October 2009)_
 
 ![Northop Grumman](../img/northrop_grumman.svg)
 
+### Resume Bullets
+
 - Developed Handbook procedures for the United States Postal Service (USPS) automated Flats Sequencing System
 (FSS) (Completed manual @ ~44,000 pages).
 - Produced reusable content procedures that served as building blocks for larger procedures for Infeed Line,

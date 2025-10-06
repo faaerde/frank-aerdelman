@@ -8,6 +8,8 @@ _Ladson, SC (March 2010 – July 2012)_
 
 ![General Dynamics](../img/general_dynamics.svg)
 
+### Resume Bullets
+
 - Developed Operations Manual (Completed manual @ ~1,000 pages), Maintenance Manual (Completed manual @
 ~10,000 pages), and Bar Armor Manual (Completed manual @ ~1,000 pages) for the Buffalo A2 Mine Resistant
 Ambush Protected (MRAP) vehicle including removal and installation, assembly and disassembly, troubleshooting,
