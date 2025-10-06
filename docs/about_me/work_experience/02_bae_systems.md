@@ -6,7 +6,7 @@ sidebar_position: 2
 ## Engineering Technologist III
 _Silver Spring, MD (April 2003 – October 2007)_
 
-<img alt="BAE Systems" src="../img/bae_systems.svg" width="300"/>
+![BAE Systems](../img/bae_systems.svg)
 
 - Created new Fault Indication Indexes and Fault Isolation Trees (FII/FIT) for US Strategic Weapon System, Attack
 Weapon System, and UK Strategic Weapon System.

@@ -6,7 +6,7 @@ sidebar_position: 7
 ## Technology Project/Program Manager
 _Chandler, AZ (September 2020 – September 2025)_
 
-<img alt="Intel New" src="../img/intel_new.svg" width="300"/>
+![Intel New](../img/intel_new.svg)
 
 - Revised technical content of Intel Kit documentation, Reliability Design Rules, Training Modules, and presentations
 using Adobe FrameMaker, Microsoft PowerPoint, Microsoft Visio, Oxygen XML Author, and GitHub.

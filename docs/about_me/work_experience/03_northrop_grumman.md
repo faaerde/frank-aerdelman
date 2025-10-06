@@ -6,7 +6,7 @@ sidebar_position: 3
 ## Technical Writer
 _Elkridge, MD (January 2008 – October 2009)_
 
-<img alt="Northop Grumman" src="../img/northrop_grumman.svg" width="300"/>
+![Northop Grumman](../img/northrop_grumman.svg)
 
 - Developed Handbook procedures for the United States Postal Service (USPS) automated Flats Sequencing System
 (FSS) (Completed manual @ ~44,000 pages).
