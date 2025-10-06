@@ -6,7 +6,7 @@ sidebar_position: 4
 ## Technical Writer
 _Ladson, SC (March 2010 – July 2012)_
 
-![General Dynamics](../img/general_dynamics.png)
+<img alt="General Dynamics" src="../img/general_dynamics.svg" width="300"/>
 
 - Developed Operations Manual (Completed manual @ ~1,000 pages), Maintenance Manual (Completed manual @
 ~10,000 pages), and Bar Armor Manual (Completed manual @ ~1,000 pages) for the Buffalo A2 Mine Resistant

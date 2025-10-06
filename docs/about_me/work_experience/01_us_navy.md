@@ -6,7 +6,7 @@ sidebar_position: 1
 ## Trident II D-5 Missile Technician (NEC-3311)
 _King's Bay, GA (January 1996 - January 2002)_
 
-![United States Navy](../img/us_navy.png)
+<img alt="United States Navy" src="../img/us_navy.svg" width="300"/>
 
 - Executed various assignments involving nuclear weapons security, nuclear weapons safety, operation, maintenance,
 and targeting of the Trident II D-5 (UGM-133) Strategic Weapon System.

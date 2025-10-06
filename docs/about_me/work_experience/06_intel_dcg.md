@@ -10,7 +10,7 @@ sidebar_position: 6
 ## Senior Technical Writer (Data Center Group) – Intel
   * Chandler, AZ (March 2016 – September 2020)
 
-![Intel Old](../img/intel_old.png)
+<img alt="Intel Old" src="../img/intel_new.svg" width="300"/>
 
 - Revised technical content of Intel proprietary documentation and presentations as specified by engineering
 modifications, new product descriptions, and customer requirements using Adobe FrameMaker 11, Microsoft

@@ -23,7 +23,7 @@ I've served as a Technical Writer in the following roles/fields:
 
 I've used multiple tools and Content Management Systems to produce documentation, but find that I really love a "Docs as Code" setup.
 
-## Resume Summary
+## Summary
 
 - Resilient Technical Writer with over 22 years' experience providing documentation ranging from weekly distributions to in-depth maintenance manuals (20 to 44,000 pages) covering military, aerospace/aviation, commercial/industrial, and semiconductor industries.
 - Skilled in facilitating maintenance including troubleshooting and repairing of various electrical, mechanical, hydraulic, and pneumatic Strategic Weapon System (SWS) equipment.

@@ -6,7 +6,7 @@ sidebar_position: 5
 ## Technical Writer
 _Phoenix, AZ (January 2013 – March 2014)_
 
-![Flatirons](../img/flatirons.png)
+<img alt="Flatirons" src="../img/flatirons.svg" width="300"/>
 
 - Studied blueprints, schematics, drawings, parts lists, specifications, mock-ups, and product samples to integrate and
 delineate technology, operating procedure, and production sequence and detail.
