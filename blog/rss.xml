@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://faaerde.github.io/frank-aerdelman/blog/mdx-blog-post</link>
-            <guid>https://faaerde.github.io/frank-aerdelman/blog/mdx-blog-post</guid>
+            <link>https://faaerde.github.io/frank-aerdelman/blog/2025/10/05/2025-10-05-initial-test/initial-test</link>
+            <guid>https://faaerde.github.io/frank-aerdelman/blog/2025/10/05/2025-10-05-initial-test/initial-test</guid>
             <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
             <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>

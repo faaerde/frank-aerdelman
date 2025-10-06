@@ -9,8 +9,8 @@
     <icon>https://faaerde.github.io/frank-aerdelman/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>https://faaerde.github.io/frank-aerdelman/blog/mdx-blog-post</id>
-        <link href="https://faaerde.github.io/frank-aerdelman/blog/mdx-blog-post"/>
+        <id>https://faaerde.github.io/frank-aerdelman/blog/2025/10/05/2025-10-05-initial-test/initial-test</id>
+        <link href="https://faaerde.github.io/frank-aerdelman/blog/2025/10/05/2025-10-05-initial-test/initial-test"/>
         <updated>2025-10-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
