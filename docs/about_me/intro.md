@@ -5,9 +5,9 @@ sidebar_position: 1
 # Introduction
 
 I'm a Senior Technical Writer that took a non-traditional path into this career.
-
 I do not have a formal degree and actually started technical writing as a collateral duty while I was in the Navy.
-I was one of two people in my division that was designated to go to a QAI (Quality Insurance Inspector) school.
+
+I was one of two people in my division designated to go to a QAI (Quality Insurance Inspector) school.
 A [SUBSAFE](https://en.wikipedia.org/wiki/SUBSAFE) valve had to be replaced during one of the refit periods; I was assigned to that task.
 I wrote my first CWP (Controlled Work Package) and successfully had the valve replaced and tested prior to the upcoming patrol.
 I did not know then that my post-military career would eventually end up in the Technical Writing field.

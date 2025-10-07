@@ -29,3 +29,20 @@ through their life cycle:
   - Electromigration and Self-Heat Design Rules
   - Bump Imax Current Design Rules
   - Interconnect Dielectric Reliability
+
+### Details
+
+In September 2020, I applied for a Technical Writer positon in the Intel Custom Foundry (later Intel Foundry Services) group.
+
+Most of the documentation created in this group was for the _Intel 3_, _Intel 18A_, and _Intel 14A_ processes.
+
+This was a mostly a remote position, due to COVID, and required interfacing with around 280 SMEs across 15 functional groups.
+Some of the functional groups were based out of Bangalore.
+The ability to pop on quickly in the evening to get a question answered really helped to ensure that we weren't playing E-mail tag when a deadline was approaching.
+
+The PDK documentation usually referred to design materials, API references, and technology data that described a [Process Design Kit](https://en.wikipedia.org/wiki/Process_design_kit).
+
+Most of the documentation was written in XML/DITA, was hosted in GitHub, and used an in house tool to solicit inputs from the SMEs.  JIRA was used for opens and carry forwards.
+
+![Fabs](../img/fab.jpg)
+

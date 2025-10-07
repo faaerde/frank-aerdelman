@@ -27,3 +27,21 @@ engineering data/schematics, and technical expert recommendations to develop, va
 parts data, and illustrations.
 - Performed hands-on validation of procedures on the Program of Record (POR) Buffalo A2 to ensure technical
 accuracy.
+
+### Details
+
+This was a difficult one!
+
+The company was ramping up to deliver its first set of documentation for the Buffalo.
+They DID NOT use a CMS. The books were authored in structured FrameMaker in accordance with MIL-STD-40051-2.
+
+The company had acquired base designs from the South African government in order to develop heavily armored trucks featuring a V-hull design.
+The documentation was very difficult to nail down due to the fact that the vehicle design was actively changing.
+Many procedures that were written for an earlier version of the truck had to be rewritten as the design, parts, and models were updated.
+
+There were as many as 50 writers at one point.
+The Operator's Manual was accepted by Tank-Automotive & Armaments Command (TACOM) and further work went into the validation of the procedures for the Maintenance Manual.
+The Army maintainers that would serve as the actual end users of our documentation were observed while performing the Maintenance Manual procedures.
+Corrections, clarifications, and updates were made to the documentation before it was finally approved by TACOM.  The completed Maintenance Manual was 10,000 pages.
+
+![Buffalo](../img/buffalo.jpg)

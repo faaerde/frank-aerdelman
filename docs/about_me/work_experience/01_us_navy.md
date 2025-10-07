@@ -46,4 +46,4 @@ We were able to launch two missiles to support FCET 21.
 ![FCET 21](../img/fcet_21.png)
 
 I also had the rare opportunity (as an Ohio-class submariner) to be part of a SINKEX with the USS John F. Kennedy Battlegroup in October 2001.
-The [Ex-USS Guam (LPH-9)](https://en.wikipedia.org/wiki/USS_Guam_(LPH-9)) was sunk for training as an artificial reef at 031° 14' 22.0" North, 071° 16' 35.0" West.
+The [Ex-USS Guam (LPH-9)](https://en.wikipedia.org/wiki/USS_Guam_(LPH-9)) was sunk for training as an artificial reef at 031° 14' 22.0" North, 071° 16' 35.0" West via a [Mark 48 ADCAP torpedo](https://en.wikipedia.org/wiki/Mark_48_torpedo) from the USS Maryland.

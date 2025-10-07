@@ -22,3 +22,18 @@ documents released, document updates, design issues, and other pertinent informa
 (BWG), Specification Updates, Application Notes, Reference Board Manuals, Customer Readiness Test Plans
 (CRTP), Datasheets, Platform Design Guides (PDG), Design-In Presentations, Platform Debug Port Specifications,
 and Model User Guides (MUG).
+
+### Details
+
+I'd had the weirdest interview at Intel.  They only wanted to verify that I had sufficient FrameMaker knowledge.
+The interview consisted of me demonstrating several very simple FrameMaker tasks that were presented to me on a printed sheet.
+The entire exercise took about seven minutes.
+I was originally hired as a contingent worker to cover the absence of an Intel employee while he took his 2-month sabbatical.
+
+While I was familiar with the tool and the workflow, this was the first time I'd been in a position where I was not serving as the content author.
+Much of the documentation required direct SME support in multiple functional areas.
+
+I eventually was hired as a direct contractor and later as a full time employee.
+Some of the public documentation can still be found pubically under _Intel Atom® Processor C3000 Product Family Datasheet_.
+
+![C3000](../img/c3000.jpg)
