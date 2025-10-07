@@ -5,20 +5,19 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Technical Writing Jobs',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_book-writer_ri5u.svg').default,
     description: (
       <>
-          Over 22 years of experience providing documentation ranging from weekly distributions to in-depth maintenance manuals (20 to 44,000 pages) covering military, aerospace/aviation, commercial/industrial, and semiconductor industries.
+          Over 22 years of experience providing documentation covering the military, aerospace/aviation, commercial/industrial, and semiconductor industries.
       </>
     ),
   },
   {
     title: 'Hobbies',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_jogging_tf9a.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I've got a few hobbies that I'm passionate about!
       </>
     ),
   },
@@ -26,7 +25,7 @@ const FeatureList = [
 
 function Feature({Svg, title, description}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--6')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>

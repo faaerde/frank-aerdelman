@@ -102,7 +102,7 @@ const config = {
             title: 'About Me',
             items: [
               {
-                label: 'My introduction',
+                label: 'Introduction',
                 to: '/docs/about_me/intro',
               },
             ],
