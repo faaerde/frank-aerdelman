@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://faaerde.github.io/frank-aerdelman/blog"/>
     <subtitle>Frank Aerdelman Blog</subtitle>
-    <icon>https://faaerde.github.io/frank-aerdelman/img/logo.svg</icon>
+    <icon>https://faaerde.github.io/frank-aerdelman/img/logo.png</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
         <id>https://faaerde.github.io/frank-aerdelman/blog/2025/10/05/2025-10-05-initial-test/initial-test</id>
