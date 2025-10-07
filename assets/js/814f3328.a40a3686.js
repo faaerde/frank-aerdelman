@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrank_aerdelman=self.webpackChunkfrank_aerdelman||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/frank-aerdelman/blog/2025/10/05/2025-10-05-initial-test/initial-test","unlisted":false,"date":"2025-10-05T00:00:00.000Z"}]}')}}]);
