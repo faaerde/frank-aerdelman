@@ -2,8 +2,10 @@
 sidebar_position: 4
 ---
 
-# Contractor - Precision Resources National
-## Technical Writer - General Dynamics Land Systems - Force Protection
+# General Dynamics
+## Technical Writer
+**Contractor - Precision Resources National**
+
 `Ladson, SC (March 2010 – July 2012)`
 
 ![General Dynamics](../img/general_dynamics.svg)
@@ -31,12 +33,13 @@ accuracy.
 ### Details
 
 This was a difficult one!
+The company was originally called _Force Protection Industries_ before it was purchased by _General Dynamics Land Systems_.
 
-The company was ramping up to deliver its first set of documentation for the Buffalo.
-They DID NOT use a CMS. The books were authored in structured FrameMaker in accordance with MIL-STD-40051-2.
+The documentation created was a first for this company. They had a contract to deliver manuals as part of their deliveries of the Buffalo A2 to the Army.
+They DID NOT use a CMS (don't do this). The books were authored in structured FrameMaker in accordance with MIL-STD-40051-2.
 
 The company had acquired base designs from the South African government in order to develop heavily armored trucks featuring a V-hull design.
-The documentation was very difficult to nail down due to the fact that the vehicle design was actively changing.
+The documentation was very difficult to nail down due to the fact that the vehicle design was actively changing (A1, LRIP, A2).
 Many procedures that were written for an earlier version of the truck had to be rewritten as the design, parts, and models were updated.
 
 There were as many as 50 writers at one point.

@@ -11,7 +11,7 @@ The program was called the "Wizards" program and was separated into different ge
 
 ![GameSpy Logo](../img/gamespy_logo.png) 
 
-There were usually three people assigned to run the tournaments.  The roles usually consisted of:
-- Matchmaker - The Wizard assigned here would normally create and track the players in the brackets.
-- Live web - The matchmaker would normally feed the information to the live web Wizard so that participants could track the progress in real time.
-- Moderator - The moderator Wizard would usually serve as the event MC, lead for the event, and would submit the results to MPlayer/Gamespy Arcade for reward distribution.
+There were usually three Wizards assigned to run the tournaments.  The roles usually consisted of:
+- **Matchmaker** - The Wizard assigned here would normally create the brackets, track the player results, and resolve gameplay disputes.
+- **Live web** - The matchmaker would normally feed the information to the live web Wizard so that tournament participants could track the progress in real time on the page displayed in the tournament lobby.
+- **Moderator** - The moderator Wizard would usually serve as the event MC, lead for the event, and would submit the results to MPlayer/Gamespy Arcade for reward distribution.

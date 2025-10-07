@@ -2,8 +2,10 @@
 sidebar_position: 3
 ---
 
-# Contractor - Technology Transfer Services (TTS)
-## Technical Writer - Northrop Grumman
+# Northrop Grumman
+## Technical Writer
+**Contractor - Technology Transfer Services (TTS)**
+
 `Elkridge, MD (January 2008 – October 2009)`
 
 ![Northop Grumman](../img/northrop_grumman.svg)
@@ -28,13 +30,14 @@ The machine was the size of a football field and contained multiple regions with
 Most of the reusable content covered similar procedures in different regions, regional power up procedures, regional power down procedures, and locators.
 
 This was the first project that exposed me to DITA.  I didn't realize the full benefit until I caught a glimpse of the book map, region maps, and submaps.
-We'd actually performed the power down, removal, replacement, and power up procedures and documented our steps on the Northrop Grumman demonstrator model.
-We took initial placeholder photographs and provided labels on those photos in accordance with the Postal Service Writer's Handbook.
-The procedures were authored in XML with the placeholder photographs until vector-based images could replace them later.
+We'd actually performed the procedures and documented the steps on the Northrop Grumman demonstrator model.
 
-Northrop Grumman and USPS employees were tasked with verifying our procedures.
+We took initial placeholder photographs and provided labels on those photos in accordance with the Handbook standard.
+The procedures were authored in XML using those placeholder photographs until vector-based images could replace them later.
+
+Northrop Grumman and USPS employees were tasked with validating our procedures as an independent party.
 It was incredibly satisfying to see a potential end user using our documents to complete a task.
 
-The final product (before the Carousel procedures were added) was estimated to be in the 44,000 page range.
+The final product (before the Carousel procedures were added) was estimated to be in the 44,000-page range.
 
 ![FSS](../img/fss.jpg)

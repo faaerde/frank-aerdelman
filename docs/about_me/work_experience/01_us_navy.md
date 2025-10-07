@@ -2,8 +2,10 @@
 sidebar_position: 1
 ---
 
-# USS Maryland / SSBN-738 Gold Crew
-## Trident II D-5 Missile Technician (NEC-3311)
+# United States Navy
+## USS Maryland / SSBN-738 Gold Crew
+**Trident II D-5 Missile Technician (NEC-3311)**
+
 `King's Bay, GA (January 1996 - January 2002)`
 
 ![United States Navy](../img/us_navy.svg)
@@ -42,8 +44,10 @@ I was assigned several collateral duties:
 - Sound Silencing Petty Officer
 - Swimmer Tender
 
-We were able to launch two missiles to support FCET 21.
-![FCET 21](../img/fcet_21.png)
+We were able to launch two missiles to support FCET 21 in April 1999.
+The FCET launches a specially modified missile without a nuclear payload, and is used to test the performance of the Trident missile system.
+
+![Trident](../img/trident.jpg)
 
 I also had the rare opportunity (as an Ohio-class submariner) to be part of a SINKEX with the USS John F. Kennedy Battlegroup in October 2001.
 The [Ex-USS Guam (LPH-9)](https://en.wikipedia.org/wiki/USS_Guam_(LPH-9)) was sunk for training as an artificial reef at 031° 14' 22.0" North, 071° 16' 35.0" West via a [Mark 48 ADCAP torpedo](https://en.wikipedia.org/wiki/Mark_48_torpedo) from the USS Maryland.

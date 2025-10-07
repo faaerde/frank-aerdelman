@@ -2,8 +2,10 @@
 sidebar_position: 2
 ---
 
-# (FII/FIT) Fault Indication Indexes / Fault Isolation Trees (Procedures)
+# BAE Systems
 ## Engineering Technologist III
+**(FII/FIT) Fault Indication Indexes / Fault Isolation Trees (Procedures)**
+
 `Silver Spring, MD (April 2003 – October 2007)`
 
 ![BAE Systems](../img/bae_systems.svg)
@@ -30,8 +32,10 @@ following an AQS-20A mine detection SONAR deployment by MH-60S Seahawk helicopte
 
 ### Details
 
-This was my first official Technical Writing/SME job.
-I was hired as a subject-matter expert and was taught how to use [Interleaf](https://en.wikipedia.org/wiki/Interleaf) in order to make updates to the FII/FIT paper documentation.
+This was my first official Technical Writing (SME) job.
+I was hired as a subject-matter expert and was taught how to use [Interleaf](https://en.wikipedia.org/wiki/Interleaf) in order to make updates to the FII/FIT paper documentation in OP 4628 / OP 4629.
+These were the same documents I was using as a troubleshooter, as the end user, while I was in the Navy.
+
 Eventually most of the documentation was moved to CD-based IETMs that would be sent to the submarines as part of their documentation suite.
 The troubleshooting procedures had to cover both the American [Ohio-class submarines](https://en.wikipedia.org/wiki/Ohio-class_submarine) and the UK [Vanguard-class submarines](https://en.wikipedia.org/wiki/Vanguard-class_submarine).
 

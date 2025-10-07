@@ -2,8 +2,10 @@
 sidebar_position: 6
 ---
 
-# Contingent Worker - Data Center Group 
-## Senior Technical Writer - Intel
+# Intel Corporation
+## Senior Technical Writer - Data Center Group
+**Contingent Worker / Intel - Data Center Group**
+
 `Chandler, AZ (April 2014 – September 2020)`
 
 ![Intel Old](../img/intel_new.png)
@@ -30,8 +32,11 @@ The interview consisted of me demonstrating several very simple FrameMaker tasks
 The entire exercise took about seven minutes.
 I was originally hired as a contingent worker to cover the absence of an Intel employee while he took his 2-month sabbatical.
 
-While I was familiar with the tool and the workflow, this was the first time I'd been in a position where I was not serving as the content author.
+While I was familiar with the tool and eventually became familiar with the workflow, this was the first time I'd been in a position where I was not serving as the content author.
 Much of the documentation required direct SME support in multiple functional areas.
+
+Much of the publishing to Intel.com and other various locations were determined by the classification of the documentation.
+A collateral list and a Message of the Week (MoW) needed to be distributed to keep customers informed of new releases.
 
 I eventually was hired as a direct contractor and later as a full time employee.
 Some of the public documentation can still be found pubically under _Intel Atom® Processor C3000 Product Family Datasheet_.

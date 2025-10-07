@@ -2,8 +2,10 @@
 sidebar_position: 7
 ---
 
-# IPPO TCEG2 Tech Pubs 2
-## Technology Project/Program Manager - Intel
+# Intel Corporation
+## Technology Project/Program Manager - Technology Collateral Enablement Group
+**IPPO TCEG2 Tech Pubs 2**
+
 `Chandler, AZ (September 2020 – September 2025)`
 
 ![Intel New](../img/intel_new.png)
@@ -42,7 +44,8 @@ The ability to pop on quickly in the evening to get a question answered really h
 
 The PDK documentation usually referred to design materials, API references, and technology data that described a [Process Design Kit](https://en.wikipedia.org/wiki/Process_design_kit).
 
-Most of the documentation was written in XML/DITA, was hosted in GitHub, and used an in house tool to solicit inputs from the SMEs.  JIRA was used for opens and carry forwards.
+Most of the documentation was written in XML/DITA, was hosted in GitHub, and used an in-house tool to solicit inputs from the SMEs.
+JIRA was used for opens and carry forwards.
 
-![Fabs](../img/fab.jpg)
+![Fab](../img/fab.jpg)
 
