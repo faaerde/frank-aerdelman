@@ -35,6 +35,9 @@ I've served as a Technical Writer in the following roles/fields:
 
 I've used multiple tools and Content Management Systems to produce documentation, but find that I really love a "Docs as Code" setup.
 
+I believe that a good Project Manager needs to be able to `adapt` to changing scopes and shifting deadlines, must be `consistent` with steps in a workflow and create a recognizable set of expectations for SMEs, and must `communicate` changes to the Program Manager, SMEs, and other Technical Writers to keep everyone synced.
+The left hand must know what the right hand is doing.
+
 ## Summary
 
 - Resilient Technical Writer with over 22 years' experience providing documentation ranging from weekly distributions to in-depth maintenance manuals (20 to 44,000 pages) covering military, aerospace/aviation, commercial/industrial, and semiconductor industries.
@@ -74,4 +77,33 @@ Completed various advanced courses while in the US Navy.
 | Submarine Force Quality Assurance Inspector (QAI)                   | A-557-0082 | Strategic Weapons "A" School                             | A-121-0142 |
 | Maintenance Support Data System Advanced maintenance and Management | A-121-0550 |
 
+## Personal
 
+I was born in Mainz, Germany; my first language was actually German.  My ability to speak German these days has suffered; I haven't been able to practice much.  I do find that I still understand what is being spoken, especially when watching TV.
+
+My father was a helicopter ([OH-58D Kiowa](https://en.wikipedia.org/wiki/Bell_OH-58_Kiowa)) pilot in the United States Army through the aviation Warrant Officer program.
+
+![Kiowa](./img/kiowa.jpg)
+
+This caused us to move around a lot as my father would receive orders.  I was perpetually the "new kid" in school.
+
+I've lived in the following locations:
+- Mainz, Germany
+- Baumholder, Germany
+- Fort Ord, California
+- Ozark, Alabama
+- Furth, Germany
+- Fort Rucker, Alabama
+- Ansbach, Germany
+- Fort Bragg, North Carolina
+- Great Lakes, Illinois
+- Orlanda, Florida
+- Groton, Connecticut
+- Newport, Rhode Island
+- Kingsland, Georgia
+- Charlotte, North Carolina
+- Fairfax, Virginia
+- Germantown, Maryland
+- Summerville, South Carolina
+- Phoenix, Arizona
+- Gilbert, Arizona
