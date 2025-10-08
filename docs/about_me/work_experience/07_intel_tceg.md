@@ -34,18 +34,22 @@ through their life cycle:
 
 ### Details
 
-In September 2020, I applied for a Technical Writer positon in the Intel Custom Foundry (later Intel Foundry Services) group.
+In 2018, I applied for a Technical Writer positon in the Intel Custom Foundry (later Intel Foundry Services) group.  Our jobs were eventually retitled as Project/Program Managers in September 2020.
 
 Most of the documentation created in this group was for the _Intel 3_, _Intel 18A_, and _Intel 14A_ processes.
 
-This was a mostly a remote position, due to COVID, and required interfacing with around 280 SMEs across 15 functional groups.
-Some of the functional groups were based out of Bangalore.
+This was a mostly a remote position, initially due to COVID, and required interfacing with around 280 SMEs across 15 functional groups.
+Some of the functional groups, like ASIC and Reliability Verification, were based out of Bangalore.
 The ability to pop on quickly in the evening to get a question answered really helped to ensure that we weren't playing E-mail tag when a deadline was approaching.
 
 The PDK documentation usually referred to design materials, API references, and technology data that described a [Process Design Kit](https://en.wikipedia.org/wiki/Process_design_kit).
 
 Most of the documentation was written in XML/DITA, was hosted in GitHub, and used an in-house tool to solicit inputs from the SMEs.
 JIRA was used for opens and carry forwards.
+
+The most difficult part of the documentation process when I first arrived involved classifying information in the XML for different customers.
+PDK releases usually required multiple "slices" (up to 8) of the documentation that targeted specific vendors and customers.
+We had to ensure that a specific-slice "A" did not include specific-slice "B" information despite the fact that both slices came from the same source.
 
 ![Fab](../img/fab.jpg)
 

@@ -34,17 +34,23 @@ accuracy.
 
 This was a difficult one!
 The company was originally called _Force Protection Industries_ before it was purchased by _General Dynamics Land Systems_.
-
-The documentation created was a first for this company. They had a contract to deliver manuals as part of their deliveries of the Buffalo A2 to the Army.
-They DID NOT use a CMS (don't do this). The books were authored in structured FrameMaker in accordance with MIL-STD-40051-2.
-
 The company had acquired base designs from the South African government in order to develop heavily armored trucks featuring a V-hull design.
+
+The documentation created was a first for this company. They had a contract to provide manuals as part of their Buffalo A2 delivery to the Army.
+They DID NOT use a CMS (don't do this). The books were authored in structured FrameMaker in accordance with MIL-STD-40051-2.
 The documentation was very difficult to nail down due to the fact that the vehicle design was actively changing (A1, LRIP, A2).
-Many procedures that were written for an earlier version of the truck had to be rewritten as the design, parts, and models were updated.
+Many procedures, written for an earlier version of the truck, had to be rerecorded and rewritten as the design, parts, and models were updated.
 
 There were as many as 50 writers at one point.
 The Operator's Manual was accepted by Tank-Automotive & Armaments Command (TACOM) and further work went into the validation of the procedures for the Maintenance Manual.
-The Army maintainers that would serve as the actual end users of our documentation were observed while performing the Maintenance Manual procedures.
-Corrections, clarifications, and updates were made to the documentation before it was finally approved by TACOM.  The completed Maintenance Manual was 10,000 pages.
+
+The Army maintainers, that would serve as the actual end users of our documentation, were observed during validation the Maintenance Manual procedures.
+Corrections, clarifications, and updates were made to the documentation before the A2 Maintenance Manual was finally approved by TACOM.  The completed Maintenance Manual was 10,000 pages.
+
+:::info
+
+In Transformers (2007), "Bonecrusher" is based off of the Buffalo MRAP.
+
+:::
 
 ![Buffalo](../img/buffalo.jpg)

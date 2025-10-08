@@ -27,13 +27,13 @@ from supplier procedure validations were properly annotated in the Astoria Conte
 
 I was initially hired to create the reusable content procedures in the TTS satellite office in Elkridge, MD.
 The machine was the size of a football field and contained multiple regions with different teams assigned.
-Most of the reusable content covered similar procedures in different regions, regional power up procedures, regional power down procedures, and locators.
+Most of the reusable content covered similar procedures in different regions, regional power-up procedures, regional power-down procedures, and locators.
 
 This was the first project that exposed me to DITA.  I didn't realize the full benefit until I caught a glimpse of the book map, region maps, and submaps.
 We'd actually performed the procedures and documented the steps on the Northrop Grumman demonstrator model.
 
 We took initial placeholder photographs and provided labels on those photos in accordance with the Handbook standard.
-The procedures were authored in XML using those placeholder photographs until vector-based images could replace them later.
+The procedures were authored in XML and used those placeholder photographs until vector-based images could replace them later.
 
 Northrop Grumman and USPS employees were tasked with validating our procedures as an independent party.
 It was incredibly satisfying to see a potential end user using our documents to complete a task.

@@ -27,6 +27,7 @@ and incorporated the Integrated Parts List (IPL).
 ### Details
 
 Much of the work here was in DITA/XML using ArborText Epic Editor or FrameMaker, depending on the site requesting the work.
+We used TechSight/X as the CMS.
 I had no previous _aviation_ technical writing experience so I had to learn about additional requirements (like the use of simplified English).
 
 The job usually requested a recreation and update of an older manual, usually with no previous source from a company that was no longer in business.

@@ -30,6 +30,9 @@ with the Navy Quality Assurance Program as the divisional Quality Assurance Insp
 I joined the Navy in 1996 and was initially designated as an Electrician's Mate.
 I attended Electrician's Mate "A" School in Orlando, FL when Navy Nuclear Power Training Command (NNPTC) was based there.
 
+| ![EM](../img/em.jpg) | ![MT](../img/mt.jpg) |
+|----------------------|----------------------|
+
 I cross-rated to Missile Technician and attended Submarine School at New London Submarine Base in Groton, CT.
 Missile Technician "A" School and Missile Technician "C" School followed before I was able to choose my submarine assignment.
 
@@ -44,10 +47,15 @@ I was assigned several collateral duties:
 - Sound Silencing Petty Officer
 - Swimmer Tender
 
+#### FCET (Follow-on Commander's Evaluation Test)
+
 We were able to launch two missiles to support FCET 21 in April 1999.
 The FCET launches a specially modified missile without a nuclear payload, and is used to test the performance of the Trident missile system.
+Northern Test Unit (NOTU) comes onboard and replaces the nuclear warheads with telemetry warheads and they install destruct sets, just in case a termination is required after launch.
 
 ![Trident](../img/trident.jpg)
 
+#### SINKEX (Sink Exercise)
+
 I also had the rare opportunity (as an Ohio-class submariner) to be part of a SINKEX with the USS John F. Kennedy Battlegroup in October 2001.
-The [Ex-USS Guam (LPH-9)](https://en.wikipedia.org/wiki/USS_Guam_(LPH-9)) was sunk for training as an artificial reef at 031° 14' 22.0" North, 071° 16' 35.0" West via a [Mark 48 ADCAP torpedo](https://en.wikipedia.org/wiki/Mark_48_torpedo) from the USS Maryland.
+The [Ex-USS Guam (LPH-9)](https://en.wikipedia.org/wiki/USS_Guam_(LPH-9)) was sunk for training as an artificial reef at _031° 14' 22.0" North, 071° 16' 35.0" West_ via a [Mark 48 ADCAP torpedo](https://en.wikipedia.org/wiki/Mark_48_torpedo) from the USS Maryland.

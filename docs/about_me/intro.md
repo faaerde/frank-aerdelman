@@ -12,14 +12,26 @@ A [SUBSAFE](https://en.wikipedia.org/wiki/SUBSAFE) valve had to be replaced duri
 I wrote my first CWP (Controlled Work Package) and successfully had the valve replaced and tested prior to the upcoming patrol.
 I did not know then that my post-military career would eventually end up in the Technical Writing field.
 
+
+:::info
+
+The Submarine Safety Program (SUBSAFE) is a quality assurance program of the United States Navy designed to maintain the safety of its submarine fleet, specifically, to provide maximum reasonable assurance that submarine hulls will stay watertight, and that they can recover from unanticipated flooding.
+
+It was brought about after the loss of the _USS Thresher (SSN-593)_ in 1963.
+
+:::
+
 I've served as a Technical Writer in the following roles/fields:
 
-- (Navy) Ohio-Class submarine Troubleshooting documentation - Fault Indication Index/Fault Isolation Tree (FII/FIT) [IETMs](https://en.wikipedia.org/wiki/Interactive_electronic_technical_manual) and OP 4628/4629
-- (USPS) A United States Postal Service sorting machine called the [Flats Sequencing System](https://en.wikipedia.org/wiki/Flats_Sequencing_System) (FSS) - ~44,000 page manual
-- (Army) Operator's Manual (1,000 pages) and Maintenance Manual (10,000 pages) for the [Buffalo A2 MRAP](https://en.wikipedia.org/wiki/Buffalo_(mine_protected_vehicle))
-- (Aviation) Manuals for Boeing, Airbus, and Sikorsky
-- (Semiconductor) Microserver/Storage documentation
-- (Semiconductor) Foundry documentation
+| Field                                          | Work Accomplished                                                                                                                                                                                            |
+|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Military<br/>United States Navy                | Ohio-Class submarine Troubleshooting documentation<br/>Fault Indication Index/Fault Isolation Tree (FII/FIT) [IETMs](https://en.wikipedia.org/wiki/Interactive_electronic_technical_manual) and OP 4628/4629 |
+| Commercial<br/>United States Postal Service    | A sorting machine called the [Flats Sequencing System](https://en.wikipedia.org/wiki/Flats_Sequencing_System) (FSS)<br/>44,000 page manual                                                                   |
+| Military<br/>United States Army                | Operator's Manual (1,000 pages) and Maintenance Manual (10,000 pages) for the [Buffalo A2 MRAP](https://en.wikipedia.org/wiki/Buffalo_(mine_protected_vehicle))                                              |
+| Aviation<br/>Honeywell, Boeing, Airbus, Sikorsky | Lighting and Networking Manuals                                                                                                                                                                              |
+| Semiconductor<br/>Microserver and Storage      | External Design Specification, Platform Design Guide, BIOS Writers Guide, Specification Updates, and so on                                                                                                   |
+| Semiconductor<br/>Foundry                      | Platform Design Kits, Reliability Tool Kits, Design Rules, and so on                                                                                                                                         |
+
 
 I've used multiple tools and Content Management Systems to produce documentation, but find that I really love a "Docs as Code" setup.
 
