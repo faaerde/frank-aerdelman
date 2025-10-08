@@ -6,7 +6,10 @@ sidebar_position: 7
 ## Technology Project/Program Manager - Technology Collateral Enablement Group
 **IPPO TCEG2 Tech Pubs 2**
 
-`Chandler, AZ (September 2020 – September 2025)`
+`Chandler, AZ (April 2018 – September 2025)`
+
+- `Senior Technical Writer - Intel / April 2018 - September 2020`
+- `Technology Project/Program Manager - Intel / September 2020 - September 2025`
 
 ![Intel New](../img/intel_new.png)
 

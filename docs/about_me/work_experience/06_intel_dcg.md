@@ -6,7 +6,11 @@ sidebar_position: 6
 ## Senior Technical Writer - Data Center Group
 **Contingent Worker / Intel - Data Center Group**
 
-`Chandler, AZ (April 2014 – September 2020)`
+`Chandler, AZ (April 2014 – April 2018)`
+
+- `Technical Writer - Engineering III (Contingent Worker) - netPolarity / April 2014 - March 2015`
+- `Technical Writer - Engineering III (Intel Contract Employee) - Intel / March 2015 - March 2016`
+- `Senior Technical Writer - Intel / March 2016 - April 2018`
 
 ![Intel Old](../img/intel_new.png)
 
@@ -38,6 +42,8 @@ I was originally hired as a contingent worker to cover the upcoming absence of a
 
 While I was familiar with the tool and eventually became familiar with the workflow, this was the first time I'd been in a position where I was not serving as the content author.
 Much of the documentation required direct SME support in multiple functional areas.
+
+![Whiteboard](../img/whiteboard.jpg)
 
 I eventually was hired as an Intel Contract Employee (ICE) and later as a full time employee.
 Some of the public documentation can still be found if one searches for _Intel Atom® Processor C3000 Product Family Datasheet_.
