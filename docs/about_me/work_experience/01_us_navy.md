@@ -30,8 +30,9 @@ with the Navy Quality Assurance Program as the divisional Quality Assurance Insp
 I joined the Navy in 1996 and was initially designated as an Electrician's Mate.
 I attended Electrician's Mate "A" School in Orlando, FL when Navy Nuclear Power Training Command (NNPTC) was based there.
 
-| ![EM](../img/em.jpg) | ![MT](../img/mt.jpg) |
+| Electrician's Mate   | Missile Technician   |
 |----------------------|----------------------|
+| ![EM](../img/em.jpg) | ![MT](../img/mt.jpg) |
 
 I cross-rated to Missile Technician and attended Submarine School at New London Submarine Base in Groton, CT.
 Missile Technician "A" School and Missile Technician "C" School followed before I was able to choose my submarine assignment.
@@ -57,5 +58,5 @@ Northern Test Unit (NOTU) comes onboard and replaces the nuclear warheads with t
 
 #### SINKEX (Sink Exercise)
 
-I also had the rare opportunity (as an Ohio-class submariner) to be part of a SINKEX with the USS John F. Kennedy Battlegroup in October 2001.
+I also had the rare opportunity (as an Ohio-class submariner) to be part of a SINKEX with the _USS John F. Kennedy Battlegroup_ in October 2001.
 The [Ex-USS Guam (LPH-9)](https://en.wikipedia.org/wiki/USS_Guam_(LPH-9)) was sunk for training as an artificial reef at _031° 14' 22.0" North, 071° 16' 35.0" West_ via a [Mark 48 ADCAP torpedo](https://en.wikipedia.org/wiki/Mark_48_torpedo) from the USS Maryland.

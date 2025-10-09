@@ -7,8 +7,9 @@ sidebar_position: 5
 I enjoy trading stocks.  I'd initially started by using a stock market simulator application.
 I'd eventually used USAA, Robinhood, and E-trade.
 
-There were several successful trades, but the one with the most success was in AMD.
+There were several successful trades including Sony, Take-Two Interactive, NIO, Intel, Alcoa, and Amazon.
+The one with the most success was in [AMD](https://en.wikipedia.org/wiki/AMD).
 
-![](../img/stock.jpg)
+![AMD Stock](../img/stock.jpg)
 
 When I sold it later, I used it to fund the purchase of my house.

@@ -47,12 +47,14 @@ The ability to pop on quickly in the evening to get a question answered really h
 
 The PDK documentation usually referred to design materials, API references, and technology data that described a [Process Design Kit](https://en.wikipedia.org/wiki/Process_design_kit).
 
-Most of the documentation was written in XML/DITA, was hosted in GitHub, and used an in-house tool to solicit inputs from the SMEs.
+Most of the documentation was written in XML/DITA, was hosted in [GitHub](https://en.wikipedia.org/wiki/GitHub), and used an in-house tool to solicit inputs from the SMEs.
 JIRA was used for opens and carry forwards.
 
 The most difficult part of the documentation process when I first arrived involved classifying information in the XML for different customers.
-PDK releases usually required multiple "slices" (up to 8) of the documentation that targeted specific vendors and customers.
-We had to ensure that a specific-slice "A" did not include specific-slice "B" information despite the fact that both slices came from the same source.
+PDK releases usually required multiple "slices" of the documentation that targeted specific vendors and customers.
+We'd tag specific content in [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) with [conditional text](https://en.wikipedia.org/wiki/Conditional_text) attributes so that Internal content would remain for only the Internal slice, for instance.
+We had to ensure that a EDA vendor slices for "Company A" did not include "Company B" information despite the fact that both slices came from the same source.
+A normal PDK release would require anywhere from 4 to 8 slices depending on the maturity and potential interested customers.
 
 ![Fab](../img/fab.jpg)
 

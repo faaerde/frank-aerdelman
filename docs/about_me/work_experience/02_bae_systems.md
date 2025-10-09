@@ -39,9 +39,9 @@ These were the same documents I was using as a troubleshooter, as the end user, 
 Eventually most of the documentation was moved to CD-based IETMs that would be sent to the submarines as part of their documentation suite.
 The troubleshooting procedures had to cover both the American [Ohio-class submarines](https://en.wikipedia.org/wiki/Ohio-class_submarine) and the UK [Vanguard-class submarines](https://en.wikipedia.org/wiki/Vanguard-class_submarine).
 
-Most of the troubleshooting procedures would be authored in Visio initially before handing them off to the Technical Writers to convert.
+Most of the troubleshooting procedures would be authored in [Visio](https://en.wikipedia.org/wiki/Microsoft_Visio) initially before handing them off to the Technical Writers to convert.
 The SMEs would have to answer trouble failure reports (TFRs) and attend "SWS Week" in order to get ahead of the upcoming modifications and upgrades to the systems.
 
 I'd also participated in a side-project creating OPMA documentation for the AN/AQS-20A sonar mine countermeasure detection system.
 
-![](../img/an_aqs_20.jpg)
+![OPMA](../img/an_aqs_20.jpg)

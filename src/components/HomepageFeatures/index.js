@@ -5,7 +5,7 @@ import Link from "@docusaurus/Link";
 
 const FeatureList = [
   {
-    title: 'Technical Writing Jobs',
+    title: 'Technical Writing',
       link: 'docs/category/work-experience',
     Svg: require('@site/static/img/undraw_book-writer_ri5u.svg').default,
     description: (
