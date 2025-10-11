@@ -2,15 +2,15 @@
 sidebar_position: 6
 ---
 
-# Intel Corporation
+# Intel Corporation (DCG)
 ## Senior Technical Writer - Data Center Group
 **Contingent Worker / Intel - Data Center Group**
 
 `Chandler, AZ (April 2014 – April 2018)`
 
-- `Technical Writer - Engineering III (Contingent Worker) - netPolarity / April 2014 - March 2015`
-- `Technical Writer - Engineering III (Intel Contract Employee) - Intel / March 2015 - March 2016`
 - `Senior Technical Writer - Intel / March 2016 - April 2018`
+- `Technical Writer - Engineering III (Intel Contract Employee) - Intel / March 2015 - March 2016`
+- `Technical Writer - Engineering III (Contingent Worker) - netPolarity / April 2014 - March 2015`
 
 ![Intel Old](../img/intel_new.png)
 
