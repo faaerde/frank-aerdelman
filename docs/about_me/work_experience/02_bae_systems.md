@@ -42,6 +42,14 @@ The troubleshooting procedures had to cover both the American [Ohio-class submar
 Most of the troubleshooting procedures would be authored in [Visio](https://en.wikipedia.org/wiki/Microsoft_Visio) initially before handing them off to the Technical Writers to convert.
 The SMEs would have to answer trouble failure reports (TFRs) and attend "SWS Week" in order to get ahead of the upcoming modifications and upgrades to the systems.
 
+I was on the team that authored the initial SSGN (Attack Weapon System) troubleshooting procedures for the four Ohio-Class submarines that were converted.
+
+:::info
+
+From 2002 to 2008, the U.S. Navy modified the four oldest Ohio-class submarines: Ohio, Michigan, Florida, and Georgia into SSGNs. The conversion was achieved by installing VLS in a multiple all-up-round canister (MAC) configuration in 22 of the 24 missile tubes, replacing one Trident missile with seven smaller Tomahawk cruise missiles. The two remaining tubes were converted to lockout chambers for use by special forces personnel. This gave each converted submarine the capability to carry up to 154 Tomahawks.
+
+:::
+
 I'd also participated in a side-project creating OPMA documentation for the AN/AQS-20A sonar mine countermeasure detection system.
 
 ![OPMA](../img/an_aqs_20.jpg)

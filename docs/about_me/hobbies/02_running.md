@@ -12,6 +12,8 @@ I now try to either walk, hike, or jog a 5K every day as a daily task.
 
 While at BAE Systems, I participated in a marathon for charity.
 
+![MCM_Frank](../img/mcm_frank.png)
+
 I did run the [Marine Corps Marathon](https://en.wikipedia.org/wiki/Marine_Corps_Marathon) and did the [Rock 'n' Roll Las Vegas Half Marathon](https://en.wikipedia.org/wiki/Rock_%27n%27_Roll_Las_Vegas_Marathon).
 
 ![Marathon](../img/marathon.jpg)

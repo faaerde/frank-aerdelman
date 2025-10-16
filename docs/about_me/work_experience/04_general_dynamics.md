@@ -54,3 +54,5 @@ In Transformers (2007), "Bonecrusher" is based off of the Buffalo MRAP.
 :::
 
 ![Buffalo](../img/buffalo.jpg)
+
+![MRAP_Group_Photo](../img/mrap.jpg)

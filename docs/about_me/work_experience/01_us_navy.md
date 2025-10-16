@@ -28,7 +28,7 @@ with the Navy Quality Assurance Program as the divisional Quality Assurance Insp
 ### Details
 
 I joined the Navy in 1996 and was initially designated as an Electrician's Mate.
-I attended Electrician's Mate "A" School in Orlando, FL when Navy Nuclear Power Training Command (NNPTC) was based there.
+I attended Electrician's Mate "A" School in Orlando, FL when the [Navy Nuclear Power Training Command (NNPTC)](https://en.wikipedia.org/wiki/Naval_Nuclear_Power_Training_Command) was based there.
 
 | Electrician's Mate   | Missile Technician   |
 |----------------------|----------------------|
@@ -60,3 +60,15 @@ Northern Test Unit (NOTU) comes onboard and replaces the nuclear warheads with t
 
 I also had the rare opportunity (as an Ohio-class submariner) to be part of a SINKEX with the _USS John F. Kennedy Battlegroup_ in October 2001.
 The [Ex-USS Guam (LPH-9)](https://en.wikipedia.org/wiki/USS_Guam_(LPH-9)) was sunk for training as an artificial reef at _031° 14' 22.0" North, 071° 16' 35.0" West_ via a [Mark 48 ADCAP torpedo](https://en.wikipedia.org/wiki/Mark_48_torpedo) from the USS Maryland.
+
+#### September 11, 2001
+
+I was on patrol when the events of September 11 unfolded.
+The immediate change in mood on the sub, the lack of information, and the difference between security when we left and when we came back are the only things I really remember well.
+
+I did 6 hours of faulted targeting, as training, during the previous watch.
+As I was walking towards my rack to get some rest before my next watch when I heard "Set [DEFCON](https://en.wikipedia.org/wiki/DEFCON) 3; station the targeting team."
+The targets I'd entered then were clean, no faults anywhere. Everything was perfect.
+
+Most of what we'd learned was copied via a satellite downlink and printed to paper.
+We didn't get any footage until a later BSP brought it aboard so a lot of time was spent reading and rereading the printout.
